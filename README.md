@@ -1,6 +1,8 @@
 # GitHub Homework
 
-Homework for Week 1, Day 1 of Codeclan. Demostrating the use of Git and GitHub using simply text files. Original brief for the homework before:
+Homework for Week 1, Day 1 of Codeclan. Demostrating the use of Git and GitHub using simply text files. 
+
+Original brief for the homework:
 
 
 ## Git & GitHub Homework
